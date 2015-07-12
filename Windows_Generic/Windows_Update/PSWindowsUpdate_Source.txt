@@ -1,0 +1,7 @@
+https://gallery.technet.microsoft.com/scriptcenter/2d191bcd-3308-4edd-9de2-88dff796b0bc
+
+Windows Update PowerShell Module
+This function is a piece of PSWindowsUpdate module to manage Windows Update on a computer system running Windows. Whole module contain set of functions to check, download and install updates from PowerShell. 
+
+MichalGajda
+https://social.technet.microsoft.com/profile/michalgajda/
