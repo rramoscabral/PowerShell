@@ -1,2 +1,2 @@
 # PowerShell
-PowerShell Scripts for Windows PowerShell
+Windows PowerShell Scripts
